@@ -22,8 +22,10 @@ Hi, I’m Ahmed Ullah 👋<br>I’m passionate about Java programming, software 
 [![](https://visitcount.itsvg.in/api?id=ahmedullah01&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-<br clear="both">
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedullah01&theme=dracula)](https://github.com/ahmedullah01/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedullah01&theme=dracula&area=true&hide_border=true" alt="Ahmed's Activity Graph">
+</p>
+
 <p align="center"><i>✨ “Java is my cup of coffee ☕” ✨</i></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
